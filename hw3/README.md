@@ -1,3 +1,12 @@
+This assignment presented the task of firstly using image and video analysis to obtain position
+data in a series of videos; a paint can has been filmed from a variety of different perspectives under
+several scenarios oscillating on an elastic cord. we ‘re given multiple different camera angles - including
+not upringt, one oscillating vertically under ideal conditions, one with added noise in the form of violent
+camera movement, another with significant horizontal movement as well as vertical, and lastly one that
+has been perturbed horizontally, vertically and rotationaly. Once this data has been obtained we may
+begin to analyze it for redundancies using Principal Component Analysis to yield more useful physical
+information about the system
+
 hw3.m utilizies a series of files named camA_B.m 
 where A is the camera number between 1 and 3  and B is the test number between 1 and 4. 
 These files contain a 4-D varibles that give camera data of size (480, 640, 3, N) 
