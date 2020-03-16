@@ -11,4 +11,4 @@ This repository is split into 5 subdirectories each containing code and supporti
   hw5 - Explores both dense and convolutional nural netwroks for image classification using the Fashion MNIST data set.
   
 Within each repository is an additional README with additional information about the assignment and neccessary resources for the provided code. 
-Repository is maintained by Tanner Graves
+Repository is maintained by Tanner Graves.
