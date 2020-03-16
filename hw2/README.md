@@ -1,5 +1,4 @@
-Abstract
-This assignment contains an exploration of methods used in signal analysis, specifically, audio processing. 
+This assignment is an exploration of methods used in signal analysis, specifically, audio processing. 
 As frequency analysis is an indispensable tool, we will make extensive use of the Gábor Transform 
 to produce the spectrograms necessary for analyzing our signal. 
 From there we will be able to filter and then utilize the time-frequency information 
