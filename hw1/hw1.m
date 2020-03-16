@@ -36,6 +36,6 @@ for j = 1:1
     isosurface(X,Y,Z,abs(Unft),5)
     axis([-20 20 -20 20 -20 20]), grid on, drawnow
 end
-%test
+%test shit
 %[garbo, ind] = max(abs(Unft(:)));[r,c,p] = ind2sub(size(Unft),ind);abs(Unft(r,c,p))
 
